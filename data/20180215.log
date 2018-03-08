@@ -1,0 +1,13 @@
+Feb 15 14:07:56  [info] admin (::1) op.Login
+Feb 15 14:11:15  [info] admin (::1) op.Login
+Feb 15 14:22:43  [error] -- (::1) op.Login UI::exitError error=Error signing in. User ID or password incorrect. pagetitle=Sign in error
+Feb 15 14:22:51  [error] -- (::1) op.Login UI::exitError error=Error signing in. User ID or password incorrect. pagetitle=Sign in error
+Feb 15 14:26:32  [info] admin (::1) op.Login
+Feb 15 14:28:42  [info] admin (::1) op.UsrMgr.php&action=adduser&login=belt
+Feb 15 14:29:46  [info] belt (::1) op.Login
+Feb 15 14:30:32  [info] belt (::1) op.AddSubFolder?name=beltTestingFolder&folderid=1
+Feb 15 14:33:16  [info] belt (::1) op.AddDocument?name=test doc&folderid=2
+Feb 15 14:33:58  [info] belt (::1) op.Ajax.php?command=deletedocument&id=1&formtoken=7b48b7507ab0636d4e2662bb18fbefa4
+Feb 15 14:34:19  [error] belt (::1) op.AddDocument UI::exitError error=Uploading an empty file. Upload is canceled. pagetitle=Folder 'beltTestingFolder'
+Feb 15 14:34:30  [info] belt (::1) op.AddDocument?name=test document&folderid=2
+Feb 15 14:36:02  [info] belt (::1) op.Download.php?documentid=2&version=1

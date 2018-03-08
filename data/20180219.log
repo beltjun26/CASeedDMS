@@ -1,0 +1,3 @@
+Feb 19 01:23:55  [info] admin (::1) op.Login
+Feb 19 01:25:04  [info] admin (::1) op.UsrMgr.php&action=adduser&login=user1
+Feb 19 01:25:18  [info] user1 (::1) op.Login
